@@ -21,4 +21,4 @@ client.on('message', msg => {
 });
 // 
 client.login(process.env.DISCORD_TOKEN);
-client.login('NzMwMzI1NjcxMjg0NTcyMjAw.XwV2yA.OxO5rv7_5QeX1PQBAHwIvZMLQH4')
+client.login('Super Secret Bot Token')
