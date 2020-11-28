@@ -52,4 +52,4 @@ client.on('message', msg => {
 });
 // 
 client.login(process.env.DISCORD_TOKEN);
-client.login('NzMwMzI1NjcxMjg0NTcyMjAw.XwV2yA.PENYJ_h3rAiUgjqg85GRkcpoYlE')
+client.login('Secret')
